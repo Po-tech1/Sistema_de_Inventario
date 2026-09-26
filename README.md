@@ -1,6 +1,6 @@
 # Sistema de Gestión de Papelería
 
-Sistema en Python que administra el inventario y los*proveedores de una papelería, combinando un menú de acceso y gestión de archivos por terminal con una interfaz gráfica (Tkinter) para visualizar y editar las tablas del negocio.
+Sistema en Python que administra el inventario y los proveedores de una papelería, combinando un menú de acceso y gestión de archivos por terminal con una interfaz gráfica (Tkinter) para visualizar y editar las tablas del negocio.
 
 ## Tabla de contenidos
 
@@ -14,7 +14,7 @@ Sistema en Python que administra el inventario y los*proveedores de una papeler�
 ## Descripción general
 
 El sistema está compuesto por dos archivos principales:
- `main.py`| Controla el acceso (login) y la gestión de archivos de texto desde la terminal 
+ `main.py` Controla el acceso (login) y la gestión de archivos de texto desde la terminal 
  `papeleria_app.py`  Contiene la interfaz gráfica (Tkinter) con las tablas de Inventario y Proveedores
 
 `main.py` es el punto de entrada del programa: primero corre el inicio de sesión y el menú por consola, y desde ahí mismo se puede abrir la ventana gráfica.
